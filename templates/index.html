@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<table class="table table-dark">
+    <h2>📃 La liste des annonces: </h2>
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Nom du site</th>
+        <th scope="col">Lien d'annonce</th>
+        <th scope="col">Description</th>
+        <th scope="col">Prix</th>
+        <th scope="col">Adresse</th>
+        <th scope="col">Nombre de chambres</th>
+        <th scope="col">Nombre de salles de bains</th>
+        <th scope="col">Surface</th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for annonce in annonces %}
+          <tr>
+            <th scope="row">{{ loop.index }}</th>
+            <td>{{ annonce.site }}</td>
+            <td class="text-primary"> 
+              <a href="{{ annonce.lien_annonce }}">{{ annonce.lien_annonce }}</a>
+            </td>
+            <td>{{ annonce.titre }}</td>
+            <td>{{ annonce.prix }}</td>
+            <td>{{ annonce.adresse }}</td>
+            <td>{{ annonce.nb_chambres }}</td>
+            <td>{{ annonce.nb_salles_de_bains }}</td>
+            <td>{{ annonce.surface }}</td>
+          </tr>
+        {% endfor %}
+      
+    </tbody>
+</table>
+{% endblock content %}

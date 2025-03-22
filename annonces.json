@@ -1,0 +1,292 @@
+[
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/location-un-appartement-chambre-salon-jolie-terrasse/",
+        "titre": "Location un appartement chambre salon jolie terrasse",
+        "prix": "6,000MAD",
+        "adresse": null,
+        "nb_chambres": "1",
+        "nb_salles_de_bains": "1",
+        "surface": "70"
+    },
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/bureau-a-louer-5-pieces-dans-un-quartier-prestigieux/",
+        "titre": "Bureau à Louer – 5 Pièces dans un Quartier Prestigieux",
+        "prix": "7,000MAD",
+        "adresse": null,
+        "nb_chambres": "4",
+        "nb_salles_de_bains": "2",
+        "surface": "100"
+    },
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/location-appartement-rabat-agdal-deux-chambres-salon/",
+        "titre": "location appartement Rabat Agdal deux chambres salon",
+        "prix": "7,500MAD",
+        "adresse": null,
+        "nb_chambres": "2",
+        "nb_salles_de_bains": "2",
+        "surface": "100"
+    },
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/location-villa-neuve-sid-el-abed-harhoura/",
+        "titre": "location villa neuve Sid El Abed Harhoura",
+        "prix": "",
+        "adresse": null,
+        "nb_chambres": null,
+        "nb_salles_de_bains": null,
+        "surface": null
+    },
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/des-appartement-dans-une-ferme-meubles-ouad-cherrat/",
+        "titre": "Des appartement dans une ferme meublés Ouad Cherrat",
+        "prix": "1MAD",
+        "adresse": null,
+        "nb_chambres": "2",
+        "nb_salles_de_bains": "2",
+        "surface": "20000"
+    },
+    {
+        "site": "rabatimmo.ma",
+        "lien_annonce": "https://rabatimmo.ma/property/location-villa-bureau/",
+        "titre": "location villa bureau",
+        "prix": "60,000MAD",
+        "adresse": null,
+        "nb_chambres": "6",
+        "nb_salles_de_bains": "5",
+        "surface": "2000"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-palmeraie-882213.html",
+        "titre": "Appartement duplex de 220 m2 à louer au circuit de la palmeraie",
+        "prix": "12 500 MAD/mois",
+        "adresse": "Palmeraie, Marrakech",
+        "nb_chambres": "5 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "220 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-victor-hugo-887592.html",
+        "titre": "APPARTEMENT CAMP EL GHOUL LOCATION",
+        "prix": "7 500 MAD/mois",
+        "adresse": "Victor Hugo, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "80 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-hivernage-887489.html",
+        "titre": "APPARTEMENT REZ DE JARDIN HIVERNAGE",
+        "prix": "25 000 MAD/mois",
+        "adresse": "Hivernage, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "80 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-gueliz-887593.html",
+        "titre": "A LOUER APPARTEMENT CENTRE VILLE NON MEUBLE",
+        "prix": "7 000 MAD/mois",
+        "adresse": "Guéliz, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "50 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-agdal-851364.html",
+        "titre": "appartement 3 chambres a louer a presitgia vue piscine",
+        "prix": "12 000 MAD/mois",
+        "adresse": "Agdal, Marrakech",
+        "nb_chambres": "3 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "90 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-menara-889553.html",
+        "titre": "Appartement de 80m² en location longue durée – Prestigia Saphir, Marrakech",
+        "prix": "17 000 MAD/mois",
+        "adresse": "Menara, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "80 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-gueliz-888930.html",
+        "titre": "APPARTEMENT TERRASSE -CENTRE GUELIZ-MARRAKECH-",
+        "prix": "10 000 MAD/mois",
+        "adresse": "Guéliz, Marrakech",
+        "nb_chambres": "1 bedroom",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "75 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-agdal-887591.html",
+        "titre": "LOCATION BEAU REZ DE JARDIN-AGDAL -MARRAKECH",
+        "prix": "12 000 MAD/mois",
+        "adresse": "Agdal, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "133 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-agdal-876541.html",
+        "titre": "MAGNIFIQUE APPARTEMENT DE STANDING PRESTIGIA",
+        "prix": "26 000 MAD/mois",
+        "adresse": "Agdal, Marrakech",
+        "nb_chambres": "3 bedrooms",
+        "nb_salles_de_bains": "3 bathrooms",
+        "surface": "180 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-hivernage-888625.html",
+        "titre": "TRES BEL APPARTEMENT MEUBLE-HIVERNAGE-MARRAKECH",
+        "prix": "12 000 MAD/mois",
+        "adresse": "Hivernage, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "100 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-hay-charaf-883936.html",
+        "titre": "Appartement de 69 m² en location à Charaf",
+        "prix": "3 500 MAD/mois",
+        "adresse": "Hay Charaf, Marrakech",
+        "nb_chambres": "3 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "69 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-plaza-890182.html",
+        "titre": "LOCATION APPARTEMENT MEUBLE-GUELIZ-MARRAKECH-",
+        "prix": "16 000 MAD/mois",
+        "adresse": "Plaza, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "124 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-targa-890191.html",
+        "titre": "APPARTEMENT TRES BON STANDING A LA LOCATION TARGA",
+        "prix": "10 000 MAD/mois",
+        "adresse": "Targa, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "100 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-indefini-848457.html",
+        "titre": "LOCATION BEL APPARTEMENT NON MEUBLE-AMELKIS-MARRAKECH",
+        "prix": "10 000 MAD/mois",
+        "adresse": "indéfini, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "120 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-targa-890194.html",
+        "titre": "JOLI STUDIO A LA LOCATION TARGA",
+        "prix": "6 000 MAD/mois",
+        "adresse": "Targa, Marrakech",
+        "nb_chambres": "Studio",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "40 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-indefini-845427.html",
+        "titre": "LOCATION BEL APPARTEMENT-RESIDENCE GOLFIQUE-MARRAKECH",
+        "prix": "10 000 MAD/mois",
+        "adresse": "indéfini, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "80 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-hay-charaf-887491.html",
+        "titre": "Appartement en location à Charaf",
+        "prix": "3 600 MAD/mois",
+        "adresse": "Hay Charaf, Marrakech",
+        "nb_chambres": "3 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "78 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-hay-izdihar-887518.html",
+        "titre": "Location Appartement 3 pièces de 76 m2 à Marrakech",
+        "prix": "7 000 MAD/mois",
+        "adresse": "Hay Izdihar, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "76 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-indefini-845414.html",
+        "titre": "APPARTEMENT A LA LOCATION-PALMERAIE-MARRAKECH",
+        "prix": "7 500 MAD/mois",
+        "adresse": "indéfini, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "2 bathrooms",
+        "surface": "80 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-mabrouka-887326.html",
+        "titre": "Location Appartement 3 pièces de 60 m2 à Marrakech",
+        "prix": "4 000 MAD/mois",
+        "adresse": "Mabrouka, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "60 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-semlalia-890719.html",
+        "titre": "Appartement  meublé 68m² à louer Semlalia",
+        "prix": "6 000 MAD/mois",
+        "adresse": "Semlalia, Marrakech",
+        "nb_chambres": "3 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "68 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-gueliz-889538.html",
+        "titre": "APPARTEMENT CENTRE VILLE GUELIZ A LOUER",
+        "prix": "8 000 MAD/mois",
+        "adresse": "Guéliz, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "100 m²"
+    },
+    {
+        "site": "www.sarouty.ma",
+        "lien_annonce": "https://www.sarouty.ma/plp/louer/appartement-a-louer-marrakech-gueliz-884623.html",
+        "titre": "Appartement meublée à louer à Guéliz Marrakech",
+        "prix": "14 000 MAD/mois",
+        "adresse": "Guéliz, Marrakech",
+        "nb_chambres": "2 bedrooms",
+        "nb_salles_de_bains": "1 bathroom",
+        "surface": "90 m²"
+    }
+]
